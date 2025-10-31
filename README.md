@@ -1,3 +1,5 @@
+Cite Hackney, Amey, Grason PRX 2023
+
 Markov chain Monte Carlo code to study finite-temperature behavior of lattice model of geometrically frustrated assembly.
 Details of model and Monte Carlo algorithm outlined by Hackney et. al. PRX 2023 (https://journals.aps.org/prx/pdf/10.1103/PhysRevX.13.041010)
 
